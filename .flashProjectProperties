@@ -1,0 +1,19 @@
+<projectDescription>
+  <id>1350342293089</id>
+  <name>Election_Game</name>
+  <asVersion>0</asVersion>
+  <boundTemplate>file:///C|/Users/Fleischer/AppData/Local/Adobe/Flash CS5/en_US/Configuration/ActionScript 3.0/Templates/boundClass_as3.as</boundTemplate>
+  <classTemplate>file:///C|/Users/Fleischer/AppData/Local/Adobe/Flash CS5/en_US/Configuration/ActionScript 3.0/Templates/standardClass_as3.as</classTemplate>
+  <classPath>.</classPath>
+  <defaultApp>file:///D|/Fleischer/Work/Flash/ElectionGame/Election_Game.fla</defaultApp>
+  <rootURI>file:///D|/Fleischer/Work/Flash/ElectionGame/</rootURI>
+  <flexSDK/>
+  <sources editable="false"/>
+  <libraries editable="false"/>
+  <externalLibraries editable="false"/>
+  <compileList editable="false">
+    <uri label="Election_Game.fla">file:///D|/Fleischer/Work/Flash/ElectionGame/Election_Game.fla</uri>
+  </compileList>
+  <recentFiles editable="false"/>
+  <locations editable="false"/>
+</projectDescription>

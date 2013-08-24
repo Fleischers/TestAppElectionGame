@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<pool>
+		<UDAR>1</UDAR>
+		<PR>1</PR>
+		<BAT>1</BAT>
+		<SVO>1</SVO>
+		<KPU>1</KPU>
+		<UkrVpered>1</UkrVpered>
+		<ParLyash>1</ParLyash>
+		<SPU>1</SPU>
+		<NashaUkr>1</NashaUkr>		
+	</pool>
+	
+	<real>
+		<UDAR>19%</UDAR>
+		<PR>21%</PR>
+		<BAT>16%</BAT>
+		<SVO>15%</SVO>
+		<KPU>12%</KPU>
+		<UkrVpered>9%</UkrVpered>
+		<ParLyash>7%</ParLyash>
+		<SPU>6%</SPU>
+		<NashaUkr>4%</NashaUkr>	
+		
+		
+	</real>
+
+</data>
